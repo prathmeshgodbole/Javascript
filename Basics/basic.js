@@ -1,4 +1,4 @@
-console.log("hellow world");
+//console.log("hellow ....!!");
 
 
 /*
@@ -15,17 +15,20 @@ console.log(mult);
 
 var div = 10 / 2;
 console.log(div);
+*/
 
 
-
+/*
 //Incrementing Numbers
 
 var a = 25;
 //a = a + 1;
 a++;
 console.log(a);
+*/
 
 
+/*
 //Decrementing Numbers
 
 var b = 25;
@@ -46,13 +49,18 @@ console.log(decimal);
 //Multiply Decimal Numbers
 var d = 2.0 * 2.5;
 console.log(d);
+*/
 
 
+/*
 //Deviding Decimal Numbers
+
 var e = 4.4 / 2.2;
 console.log(e);
+*/
 
 
+/*
 //Finding remainder
 
 var remainder;
@@ -75,4 +83,4 @@ a += 9;
 b += 9;
 c += 9;
 
-console.log("a=" + a + "b=" + b + "c=" + c);
+console.log(" a= " + a + " b= " + b + " c= " + c);
