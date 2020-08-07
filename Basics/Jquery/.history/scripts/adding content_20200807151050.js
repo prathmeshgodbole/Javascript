@@ -1,0 +1,1 @@
+var para = "<div></div>Hellow good morning";;

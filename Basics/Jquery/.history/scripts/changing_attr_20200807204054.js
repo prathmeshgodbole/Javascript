@@ -1,0 +1,2 @@
+//.removeAttr()
+$("img").removeAttr("alt");

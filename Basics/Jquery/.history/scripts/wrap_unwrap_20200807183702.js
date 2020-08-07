@@ -1,0 +1,1 @@
+/<Route path="" component={}/ > $("section").wrap("<div>");
