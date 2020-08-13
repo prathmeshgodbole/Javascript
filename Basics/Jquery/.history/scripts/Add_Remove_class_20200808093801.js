@@ -1,0 +1,4 @@
+//removeClass()
+$("").remove
+    //addClass()
+    //toggleClass

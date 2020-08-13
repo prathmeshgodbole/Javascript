@@ -1,0 +1,5 @@
+//removeClass()
+$("").removelass();
+//addClass()
+$("")
+    //toggleClass
